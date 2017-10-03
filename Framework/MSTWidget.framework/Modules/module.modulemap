@@ -1,0 +1,6 @@
+framework module MSTWidget {
+  umbrella header "MSTWidget.h"
+
+  export *
+  module * { export * }
+}
