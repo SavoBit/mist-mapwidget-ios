@@ -16,8 +16,6 @@ FOUNDATION_EXPORT const unsigned char MSTWidgetVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <MSTWidget/PublicHeader.h>
 
-
-#import <MSTWidget/Default.h>
+#import <MSTWidget/MSTWidgetUtil.h>
 #import <MSTWidget/MSTMApBaseViewController.h>
 #import <MSTWidget/MicelloWebViewController.h>
-#import <MSTWidget/Logger.h>
