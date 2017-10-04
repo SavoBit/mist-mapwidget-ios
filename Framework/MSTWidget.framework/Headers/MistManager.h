@@ -30,9 +30,6 @@
 @property (nonatomic) bool shouldReconnect;
 @property (nonatomic, assign) BOOL isConnected;
 @property (nonatomic, assign) BOOL didAlreadyStart;
-@property (nonatomic, strong) NSMutableArray *simulateFuncs;
-
-@property (nonatomic) long virtualAPTestMin;
 
 +(instancetype)sharedInstance;
 

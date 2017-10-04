@@ -18,5 +18,6 @@ FOUNDATION_EXPORT const unsigned char MSTWidgetVersionString[];
 
 
 #import <MSTWidget/Default.h>
+#import <MSTWidget/MSTMApBaseViewController.h>
 #import <MSTWidget/MicelloWebViewController.h>
 #import <MSTWidget/Logger.h>

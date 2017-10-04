@@ -8,13 +8,13 @@
 
 #import <UIKit/UIKit.h>
 #import <MistSDK/MistSDK.h>
-#import <MessageUI/MessageUI.h>
 #import "MSTWidgetDelegate.h"
 
 typedef NS_OPTIONS(NSUInteger, MSTDotConfiguration) {
     MSTDotConfigurationBluedot = 0,
     MSTDotConfigurationSTPdot = 1 << 0
 };
+
 
 @interface MSTMapBaseViewController : UIViewController
 
